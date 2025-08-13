@@ -1,0 +1,17 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+literature/*
+archive/*
+*/archive/*
+data/*
+ext_data/*
+images/*
+SPHY_data/Geul_*
+*.html
+*.docx
+*.xlsx
+*.map
+*.tbl
+
